@@ -1,0 +1,2 @@
+[20-Jul-2019 23:35:29 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/newpub.php:9) in /home1/redeim46/public_html/uploads/newpub.php on line 23
+[20-Jul-2019 23:35:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/newpub.php:9) in /home1/redeim46/public_html/uploads/newpub.php on line 23

@@ -1,0 +1,780 @@
+[20-Jul-2019 21:51:58 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:51:58 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:51:58 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/redeim46/public_html/session.php on line 3
+[20-Jul-2019 21:51:58 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/redeim46/public_html/session.php:3) in /home1/redeim46/public_html/session.php on line 4
+[20-Jul-2019 21:51:58 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/redeim46/public_html/session.php on line 9
+[20-Jul-2019 21:51:58 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/redeim46/public_html/session.php on line 10
+[20-Jul-2019 21:51:58 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/session.php:3) in /home1/redeim46/public_html/profile.php on line 4
+[20-Jul-2019 21:52:44 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:52:44 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:52:44 America/Sao_Paulo] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/redeim46/public_html/session.php on line 3
+[20-Jul-2019 21:52:44 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/redeim46/public_html/session.php:3) in /home1/redeim46/public_html/session.php on line 4
+[20-Jul-2019 21:52:44 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/redeim46/public_html/session.php on line 9
+[20-Jul-2019 21:52:44 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home1/redeim46/public_html/session.php on line 10
+[20-Jul-2019 21:52:44 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/session.php:3) in /home1/redeim46/public_html/profile.php on line 4
+[20-Jul-2019 21:54:34 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:34 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:34 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:34 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:41 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:41 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:41 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/login.php on line 39
+[20-Jul-2019 21:54:41 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/admin.php on line 4
+[20-Jul-2019 21:54:47 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:47 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:47 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:47 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:56 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:56 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:54:56 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 21:54:56 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 21:55:40 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:55:40 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:55:40 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 21:55:40 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 21:57:24 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:57:24 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:57:30 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:57:30 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:57:30 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 21:57:30 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 21:59:51 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 21:59:51 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 21:59:51 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 21:59:51 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:00:37 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:00:37 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:00:37 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:00:37 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:00:45 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:00:45 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:00:45 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:00:45 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:01:46 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:01:46 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:01:46 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:01:46 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:01:54 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:01:54 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:01:54 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/logout.php:4) in /home1/redeim46/public_html/logout.php on line 5
+[20-Jul-2019 22:05:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:05:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:05:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/logout.php:4) in /home1/redeim46/public_html/logout.php on line 5
+[20-Jul-2019 22:06:21 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:06:21 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:06:21 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:06:21 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:07:25 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:07:25 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:07:25 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/login.php on line 39
+[20-Jul-2019 22:07:25 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/admin.php on line 4
+[20-Jul-2019 22:08:13 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:08:13 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:08:13 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:08:13 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:08:32 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:08:32 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:08:32 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:08:32 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:10:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:10:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:10:23 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:10:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:10:42 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:10:42 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:10:42 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 6
+[20-Jul-2019 22:11:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:11:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:11:06 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 6
+[20-Jul-2019 22:11:37 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:11:37 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:11:37 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:11:37 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:12:10 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:12:10 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:12:10 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:12:10 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:12:19 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:12:19 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:12:19 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:12:19 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:13:07 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:13:07 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:13:07 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 5
+[20-Jul-2019 22:13:20 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:13:20 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:13:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 5
+[20-Jul-2019 22:16:16 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:16:16 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:16:16 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:16:16 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:16:52 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:16:52 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:16:52 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:16:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:17:15 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:17:15 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:17:15 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 59
+[20-Jul-2019 22:17:15 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 108
+[20-Jul-2019 22:17:57 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:17:57 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:17:57 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 59
+[20-Jul-2019 22:17:57 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 108
+[20-Jul-2019 22:18:31 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:18:31 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:18:31 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 59
+[20-Jul-2019 22:18:31 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 104
+[20-Jul-2019 22:19:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:19:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:19:00 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 50
+[20-Jul-2019 22:19:00 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 92
+[20-Jul-2019 22:19:37 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:19:37 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:19:37 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:19:37 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:22:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:22:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:22:29 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:22:29 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:22:58 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:22:58 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:22:58 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:22:58 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:29:57 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:29:57 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:29:57 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:29:57 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:30:54 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:30:54 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:30:54 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:30:54 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:31:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:31:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:31:01 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:31:01 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:31:39 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:31:39 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:31:39 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:31:39 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:31:44 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:31:44 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:31:44 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:31:44 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:32:32 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:32:32 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:32:32 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:33:18 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:33:18 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:33:18 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:33:18 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 95
+[20-Jul-2019 22:33:36 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:33:36 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:33:36 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 26
+[20-Jul-2019 22:33:51 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:33:51 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:33:51 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 5
+[20-Jul-2019 22:34:18 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:18 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:18 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 5
+[20-Jul-2019 22:34:22 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:22 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:22 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 5
+[20-Jul-2019 22:34:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:29 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 5
+[20-Jul-2019 22:34:56 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:56 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:34:56 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 4
+[20-Jul-2019 22:36:22 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:36:22 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:36:22 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:36:22 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:37:03 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:37:03 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:37:03 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 2
+[20-Jul-2019 22:37:03 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 61
+[20-Jul-2019 22:37:45 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:37:45 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:37:45 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 59
+[20-Jul-2019 22:37:45 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/uploads/upload.php on line 108
+[20-Jul-2019 22:41:32 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:41:32 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:41:32 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/profile.php on line 24
+[20-Jul-2019 22:42:28 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:42:28 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:42:28 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/profile.php on line 24
+[20-Jul-2019 22:42:58 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:42:58 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:42:58 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/profile.php on line 24
+[20-Jul-2019 22:43:39 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:43:39 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:43:39 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/profile.php on line 24
+[20-Jul-2019 22:44:11 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:44:11 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:44:11 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:22) in /home1/redeim46/public_html/profile.php on line 24
+[20-Jul-2019 22:44:43 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:44:43 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:44:43 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:3) in /home1/redeim46/public_html/profile.php on line 5
+[20-Jul-2019 22:45:30 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:45:30 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:45:30 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:3) in /home1/redeim46/public_html/profile.php on line 5
+[20-Jul-2019 22:48:52 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:48:52 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:48:52 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:48:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 107
+[20-Jul-2019 22:49:02 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:49:02 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:49:02 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:49:02 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 107
+[20-Jul-2019 22:49:15 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:49:15 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:49:15 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:3) in /home1/redeim46/public_html/profile.php on line 5
+[20-Jul-2019 22:51:24 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:51:24 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:51:24 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:51:24 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:51:24 America/Sao_Paulo] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/session.php on line 4
+[20-Jul-2019 22:52:18 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:52:18 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:52:18 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:52:18 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:53:35 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:53:35 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:53:35 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home1/redeim46/public_html/profile.php on line 21
+[20-Jul-2019 22:54:53 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:54:53 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:54:53 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:54:53 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 22:55:40 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:55:40 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:55:40 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 85
+[20-Jul-2019 22:55:40 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:85) in /home1/redeim46/public_html/profile.php on line 134
+[20-Jul-2019 22:56:14 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:56:14 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:56:14 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 60
+[20-Jul-2019 22:56:14 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:60) in /home1/redeim46/public_html/profile.php on line 109
+[20-Jul-2019 22:56:31 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:56:31 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:56:31 America/Sao_Paulo] PHP Warning:  include(uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[20-Jul-2019 22:56:31 America/Sao_Paulo] PHP Warning:  include(uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[20-Jul-2019 22:56:31 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'uploads/upload.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/redeim46/public_html/profile.php on line 27
+[20-Jul-2019 22:56:31 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 200
+[20-Jul-2019 22:56:31 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:27) in /home1/redeim46/public_html/profile.php on line 249
+[20-Jul-2019 22:56:54 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:56:54 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:56:54 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 197
+[20-Jul-2019 22:56:54 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 246
+[20-Jul-2019 22:57:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:57:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:57:01 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 197
+[20-Jul-2019 22:57:01 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 246
+[20-Jul-2019 22:59:04 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:59:04 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:59:04 America/Sao_Paulo] PHP Warning:  include(/uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[20-Jul-2019 22:59:04 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/uploads/upload.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/redeim46/public_html/profile.php on line 27
+[20-Jul-2019 22:59:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:59:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:59:29 America/Sao_Paulo] PHP Warning:  include(/uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[20-Jul-2019 22:59:29 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/uploads/upload.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/redeim46/public_html/profile.php on line 27
+[20-Jul-2019 22:59:52 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 22:59:52 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 22:59:52 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 22:59:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 23:01:55 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:01:55 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:01:55 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:01:55 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 23:03:25 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:03:26 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:03:26 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:03:26 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 23:05:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:05:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:05:00 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:05:00 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 23:05:43 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:05:43 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:05:43 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:05:43 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 23:07:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:07:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:07:01 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:07:01 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 109
+[20-Jul-2019 23:08:51 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:08:51 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:08:51 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:08:51 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 108
+[20-Jul-2019 23:24:02 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:24:02 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:24:02 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:24:02 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 108
+[20-Jul-2019 23:24:02 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:24:02 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:24:09 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:24:09 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:24:09 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/login.php on line 39
+[20-Jul-2019 23:24:09 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/admin.php on line 4
+[20-Jul-2019 23:25:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:25:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:25:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/login.php on line 39
+[20-Jul-2019 23:25:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:34) in /home1/redeim46/public_html/admin.php on line 4
+[20-Jul-2019 23:32:02 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:32:02 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:32:02 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:40) in /home1/redeim46/public_html/admin.php on line 4
+[20-Jul-2019 23:32:02 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:32:02 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:32:12 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:32:12 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:32:12 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:32:12 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 108
+[20-Jul-2019 23:33:42 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:33:42 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:33:42 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 60
+[20-Jul-2019 23:33:42 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 74
+[20-Jul-2019 23:34:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:34:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:34:06 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 62
+[20-Jul-2019 23:34:59 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:34:59 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:34:59 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:57) in /home1/redeim46/public_html/uploads/upload.php on line 59
+[20-Jul-2019 23:35:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:35:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:38:33 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:38:33 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:15 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:15 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:55 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:39:55 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:40:58 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:40:58 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:41:32 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:41:32 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:41:48 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:41:48 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:11 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:11 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:17 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:17 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:17 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:40) in /home1/redeim46/public_html/admin.php on line 4
+[20-Jul-2019 23:42:18 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:18 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:24 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:35 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:35 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:41 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:41 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:47 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:47 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:47 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:47 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:47 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:42:47 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:00 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:40) in /home1/redeim46/public_html/admin.php on line 4
+[20-Jul-2019 23:43:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:07 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:07 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:12 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:12 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:18 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:18 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:24 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:24 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:30 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:30 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:36 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:36 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:42 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:42 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:48 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:43:48 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:03 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:03 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:09 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:09 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:19 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:19 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:25 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:25 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:30 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:30 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:36 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:36 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:42 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:42 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:48 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:48 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:54 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:44:54 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:12 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:12 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:18 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:18 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:24 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:24 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:30 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:30 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:36 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:36 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:42 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:42 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:48 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:48 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:53 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:45:53 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:12 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:12 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:18 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:18 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:24 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:24 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:30 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:30 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:37 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:37 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:43 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:43 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:49 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:49 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:55 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:46:55 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:07 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:07 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:13 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:13 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:19 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:19 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:25 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:25 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:31 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:31 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:37 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:37 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:43 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:43 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:49 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:49 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:55 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:47:55 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:07 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:07 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:13 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:13 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:19 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:19 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:25 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:25 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:31 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Jul-2019 23:48:31 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:07 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:07 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:09 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:09 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:10 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:10 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:16 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:16 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:22 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:22 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:28 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:28 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:34 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:34 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:40 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:40 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:46 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:46 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:52 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:52 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:58 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:00:58 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:04 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:04 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:10 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:10 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:16 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:16 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:22 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:22 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:32 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:32 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:32 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:32 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:39 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:39 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:39 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/login.php:40) in /home1/redeim46/public_html/admin.php on line 4
+[21-Jul-2019 00:01:40 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:40 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:51 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:51 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:01:51 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 59
+[21-Jul-2019 00:01:51 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:59) in /home1/redeim46/public_html/uploads/upload.php on line 71
+[21-Jul-2019 00:02:21 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:02:21 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:02:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home1/redeim46/public_html/uploads/upload.php on line 62
+[21-Jul-2019 00:02:48 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:02:48 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:02:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home1/redeim46/public_html/uploads/upload.php on line 106
+[21-Jul-2019 00:03:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:03:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:03:01 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 90
+[21-Jul-2019 00:03:01 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:60) in /home1/redeim46/public_html/uploads/upload.php on line 102
+[21-Jul-2019 00:03:55 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:03:55 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:03:55 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 4
+[21-Jul-2019 00:03:55 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/uploads/upload.php:4) in /home1/redeim46/public_html/uploads/upload.php on line 16
+[21-Jul-2019 00:04:15 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:04:15 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:04:20 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:04:20 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:04:41 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:04:41 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:04:46 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:04:46 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:01 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:01 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:27 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:27 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:34 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:34 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:34 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:05:40 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:05:40 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:22 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:22 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:27 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:27 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:27 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:06:33 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:33 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:41 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:41 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:41 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:06:47 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:06:47 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:08:56 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:08:56 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:08:56 America/Sao_Paulo] PHP Warning:  include(uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[21-Jul-2019 00:08:56 America/Sao_Paulo] PHP Warning:  include(uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[21-Jul-2019 00:08:56 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'uploads/upload.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/redeim46/public_html/profile.php on line 27
+[21-Jul-2019 00:09:12 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:09:12 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:09:12 America/Sao_Paulo] PHP Warning:  include(uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[21-Jul-2019 00:09:12 America/Sao_Paulo] PHP Warning:  include(uploads/upload.php): failed to open stream: No such file or directory in /home1/redeim46/public_html/profile.php on line 27
+[21-Jul-2019 00:09:12 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'uploads/upload.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/redeim46/public_html/profile.php on line 27
+[21-Jul-2019 00:09:12 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:27) in /home1/redeim46/public_html/profile.php on line 145
+[21-Jul-2019 00:09:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:09:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:09:29 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 142
+[21-Jul-2019 00:09:40 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:09:40 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:09:40 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 142
+[21-Jul-2019 00:10:02 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:10:02 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:10:02 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 142
+[21-Jul-2019 00:10:07 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:10:07 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:10:07 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 142
+[21-Jul-2019 00:10:37 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:10:37 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:10:37 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:10:43 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:10:43 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:06 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:11:12 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:12 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:23 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:11:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:36 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:36 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:36 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:11:42 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:42 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:52 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:52 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:52 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/uploads/upload.php on line 8
+[21-Jul-2019 00:11:58 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:11:58 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:13:59 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:13:59 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:04 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:04 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:04 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 140
+[21-Jul-2019 00:14:04 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 143
+[21-Jul-2019 00:14:16 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:16 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:16 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 140
+[21-Jul-2019 00:14:16 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 143
+[21-Jul-2019 00:14:28 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:28 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:28 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 140
+[21-Jul-2019 00:14:28 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 143
+[21-Jul-2019 00:14:43 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:43 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:14:43 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 140
+[21-Jul-2019 00:14:43 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 143
+[21-Jul-2019 00:15:17 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:15:17 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:15:17 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/header.php:73) in /home1/redeim46/public_html/profile.php on line 140
+[21-Jul-2019 00:15:17 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 143
+[21-Jul-2019 00:15:51 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:15:51 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:15:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/redeim46/public_html/profile.php:5) in /home1/redeim46/public_html/profile.php on line 9
+[21-Jul-2019 00:15:52 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 12
+[21-Jul-2019 00:16:28 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:28 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:28 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 11
+[21-Jul-2019 00:16:34 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:34 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:40 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:40 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:40 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 11
+[21-Jul-2019 00:16:46 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:46 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:54 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:54 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:16:54 America/Sao_Paulo] PHP Warning:  getimagesize(): Filename cannot be empty in /home1/redeim46/public_html/profile.php on line 11
+[21-Jul-2019 00:17:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:17:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:18:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:18:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:19:50 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:19:50 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 00:36:12 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 00:36:12 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 05:22:32 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 05:22:32 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 09:38:16 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 09:38:16 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 14:30:49 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 14:30:49 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 15:52:26 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 15:52:26 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jul-2019 22:17:35 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[21-Jul-2019 22:17:35 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jul-2019 06:56:14 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2019 06:56:14 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jul-2019 09:08:48 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2019 09:08:48 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jul-2019 16:21:08 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2019 16:21:08 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[22-Jul-2019 23:59:08 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[22-Jul-2019 23:59:08 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Jul-2019 13:46:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2019 13:46:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Jul-2019 14:11:09 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2019 14:11:09 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Jul-2019 16:06:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2019 16:06:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Jul-2019 22:12:03 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2019 22:12:03 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Jul-2019 22:28:25 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2019 22:28:25 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Jul-2019 22:29:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Jul-2019 22:29:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jul-2019 12:54:31 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2019 12:54:31 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[24-Jul-2019 16:12:07 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Jul-2019 16:12:07 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jul-2019 03:17:59 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2019 03:17:59 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jul-2019 04:27:10 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2019 04:27:10 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jul-2019 16:04:21 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2019 16:04:21 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jul-2019 17:25:23 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2019 17:25:23 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jul-2019 22:05:27 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2019 22:05:27 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[25-Jul-2019 22:05:27 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[25-Jul-2019 22:05:27 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jul-2019 00:23:09 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2019 00:23:09 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jul-2019 11:13:06 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2019 11:13:06 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jul-2019 16:49:57 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2019 16:49:57 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jul-2019 16:56:34 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2019 16:56:34 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jul-2019 22:14:04 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2019 22:14:04 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Jul-2019 22:21:29 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Jul-2019 22:21:29 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 03:16:46 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 03:16:46 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 06:09:52 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 06:09:52 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 07:33:19 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 07:33:19 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 10:30:28 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 10:30:28 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 16:04:55 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 16:04:55 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 20:30:56 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 20:30:56 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 21:42:15 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 21:42:15 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 21:42:28 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 21:42:28 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[27-Jul-2019 22:08:16 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[27-Jul-2019 22:08:16 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Jul-2019 16:02:21 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Jul-2019 16:02:21 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Jul-2019 21:11:45 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Jul-2019 21:11:45 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Jul-2019 22:03:05 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Jul-2019 22:03:05 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[28-Jul-2019 23:45:14 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Jul-2019 23:45:14 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jul-2019 11:03:13 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2019 11:03:13 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jul-2019 11:06:35 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2019 11:06:35 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[29-Jul-2019 16:00:50 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[29-Jul-2019 16:00:50 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Jul-2019 16:04:33 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Jul-2019 16:04:33 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Jul-2019 22:06:00 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Jul-2019 22:06:00 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[30-Jul-2019 22:29:49 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[30-Jul-2019 22:29:49 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Jul-2019 04:25:19 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Jul-2019 04:25:19 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Jul-2019 04:58:30 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Jul-2019 04:58:30 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Jul-2019 16:11:36 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Jul-2019 16:11:36 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[31-Jul-2019 21:16:38 America/Sao_Paulo] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[31-Jul-2019 21:16:38 America/Sao_Paulo] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
